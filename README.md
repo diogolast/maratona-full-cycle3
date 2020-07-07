@@ -6,3 +6,4 @@ Repositório com todos os desafios da maratona full cycle
  - Desafio 02 - Hello Full Cycle utilizando Buffalo
  - Desafio 03 - Endpoint serverless que realiza uma operação de soma
  - Desafio 04 - Listagem das lives com Django e SQLite
+ - Desafio 05 - Endpoint com a programação das lives com Nest.js e SQLite

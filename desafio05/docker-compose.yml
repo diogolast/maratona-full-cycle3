@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+
+  app:
+    build: .
+    container_name: desafio05
+    command: npm run start:dev
+    ports:
+      - 3000:3000
